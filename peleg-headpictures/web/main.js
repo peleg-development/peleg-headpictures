@@ -104,6 +104,5 @@ const PelegHeadPictures = {
     }
 };
 
-// Initialize Vue app
 const app = Vue.createApp(PelegHeadPictures);
 app.mount('#app');
